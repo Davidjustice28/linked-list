@@ -1,0 +1,13 @@
+{
+  "name": "linked-list",
+  "version": "1.0.0",
+  "description": "This repository was created to demonstrated my understanding of linked lists and how to implement them.",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
